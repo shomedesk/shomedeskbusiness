@@ -1,0 +1,21 @@
+{
+  "name": "ShomeDesk Business",
+  "short_name": "ShomeDesk",
+  "description": "A daily report submission and supplier control system for ShomeDesk Business.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "https://photos.fife.usercontent.google.com/pw/AP1GczPehKg6FMI45H5AOsFqjWdh65gANxt16t6ujwRAssjQV8nbytEFWh0=w192-h192-s-no-gm?authuser=0",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://photos.fife.usercontent.google.com/pw/AP1GczPehKg6FMI45H5AOsFqjWdh65gANxt16t6ujwRAssjQV8nbytEFWh0=w512-h512-s-no-gm?authuser=0",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
